@@ -1,0 +1,13 @@
+# I just took this .gitignore from https://discourse.gohugo.io/t/the-best-gitignore-for-hugo/20283
+
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+
+.DS_Store
+node_modules
+dist
+tmp
