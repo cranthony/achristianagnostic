@@ -8,7 +8,7 @@ Follow the instructions at https://gohugo.io/ to install Hugo.
 
 ## Common commands
 
-### Run the web server
+### Run the web server locally
 
 With drafts (pages marked with `draft = true`) enabled:
 
