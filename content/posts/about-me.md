@@ -4,8 +4,6 @@ date = 2024-07-28T19:05:10-04:00
 draft = false
 +++
 
-This blog reflects my personal views, not those of a company or organization that I'm aware of.  Including the company that employs me.  My career is not related to blogging, by the way.
-
 My name is Chris, and I wrestle with what I've described as a "spiritual sickness".  My Dad has called me "lost".  I've been called out several times, by different people, for thinking too much and doing too little.  It feels to me that my default mode is one of meaningless activity.  Here are some common habits that I associate with meaninglessness:
 
 * Watching TV, addictively.  I find it hard to stop watching YouTube or Prime Video once I start, and I can easily waste hours and sacrifice my sleep to the indulgence.
